@@ -6,8 +6,8 @@
 
 Hi, I'm Aydi Mansur, a passionate self-taught fullstack web - mobile developer from Russia.
 
-- 🔭 I’m currently working for a company 
-- 🌱 I’m currently learning Vue,Laravel,ReactJS,ReactNative
+- 👨‍💻 I’m currently working for a company 
+- 📚 I’m currently learning Vue,Laravel,ReactJS,ReactNative
 
 **Languages and Tools:**  
 <br>
