@@ -4,7 +4,7 @@
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Aydi Mansur, a passionate self-taught fullstack web - mobile developer from Russia.
 
 - 🔭 I’m currently working for a company 
 - 🌱 I’m currently learning Vue,Laravel,ReactJS,ReactNative
