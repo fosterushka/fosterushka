@@ -4,7 +4,7 @@
 <br />
 <br />
 
-Hi, I'm Mansur, a passionate self-taught fullstack web,unix,mobile developer from Russia.
+I'm , a passionate self-taught fullstack web,unix,mobile developer from Russia.
 
 - 👨‍💻 I’m currently working for a company 
 - 📚 I’m currently learning Vue,Laravel,ReactJS,ReactNative,Bash,C#
