@@ -1,5 +1,5 @@
-## For better readability switср to DARK THEME 😈
-### Ayo wagwan lads 🤣, I'm [AyManXd!](https://github.com/idevmans) 👋
+## For better readability switch to DARK THEME 😈
+### Ayo wagwan lads 🤣, I'm [idevmans!](https://github.com/idevmans) 👋
 
 <br />
 <br />
