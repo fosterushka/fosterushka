@@ -8,6 +8,7 @@ I'm , a passionate self-taught fullstack web,unix,mobile and lately deep in with
 
 - 👨‍💻 I’m currently working for a company 
 - 📚 I’m currently learning Web = PHP : LARAVEL,SYMPHONY/ JS: VUE) and DESKTOP = (C# for Unity) JAVA for LIBGDX
+- [btw fuck php and python];
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=idevmans&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
