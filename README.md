@@ -1,10 +1,6 @@
-## For better readability switch to DARK THEME 😈
-### Ayo wagwan lads 🤣, I'm [idevmans!](https://github.com/idevmans) 👋
-
-<br />
-<br />
+Ayo wagwan lads 🤣, I'm [idevmans!](https://github.com/idevmans) 👋
 
 I'm , a passionate self-taught web developer.
 
 - 👨‍💻 I’m currently working for a company 
-- 📚 I’m currently learning Web = LARAVEL,DJANGO,VUE;
+- 📚 Mainly i am web dev = LARAVEL,DJANGO,VUE;
