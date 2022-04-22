@@ -7,8 +7,7 @@
 I'm , a passionate self-taught fullstack web,unix,mobile and lately deep in with C#, developer from Russia.
 
 - 👨‍💻 I’m currently working for a company 
-- 📚 I’m currently learning Web = PHP : LARAVEL,SYMPHONY/ JS: VUE) and DESKTOP = (C# for Unity) JAVA for LIBGDX
-- [btw fuck php and python];
+- 📚 I’m currently learning Web = LARAVEL,DJANGO,VUE;
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=idevmans&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
