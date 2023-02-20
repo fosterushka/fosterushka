@@ -1,6 +1,6 @@
 Ayo wagwan lads 🤣, I'm [idevmans!](https://github.com/idevmans) 👋
 
-I'm , a passionate self-taught fullstack web developer.
+I'm , a passionate self-taught fullstack web and mobile developer.
 
 - 👨‍💻 I’m currently working for a company 
 - 🗑️ Web is too overloaded with a garbage tools.
