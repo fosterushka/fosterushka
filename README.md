@@ -1,4 +1,4 @@
-Ayo wagwan lads 🤣, I'm [idevmans!](https://github.com/idevmans) 👋
+Ayo wagwan lads 🤣, I'm [fosterushka!](https://github.com/fosterushka) 👋
 
 I'm , a passionate self-taught fullstack web and mobile developer.
 
