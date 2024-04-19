@@ -2,7 +2,6 @@ Ayo wagwan lads 🤣, I'm [fosterushka!](https://github.com/fosterushka) 👋
 
 I'm , a passionate self-taught fullstack web and mobile developer.
 
-- 👨‍💻 I’m currently working for a company 
 - 🗑️ Web is too overloaded with a garbage, and i hate web developers cuz they overuse and make ting complicated.
 - 📚 Brevity is the soul of wit, write code readable and maintanable !
 - 🧑🏻‍🔬 I love to contribute to open source
