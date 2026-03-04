@@ -1,6 +1,11 @@
-Hey, I'm [fosterushka!](https://github.com/fosterushka) 👋
+# Hey, I am [fosterushka](https://github.com/fosterushka)
 
-I'm , a passionate self-taught fullstack web and mobile developer.
+I am a passionate, self-taught web and mobile developer. I am currently employed full-time and I love contributing to open-source projects.
 
-- Web is too overloaded with a garbage, and i hate web developers cuz they overuse and make ting complicated.
-- My stack : go, php, js (ts), python
+I am also working on my pet project, [ChronoFlow](https://chronoflow.pro/).
+
+### About Me
+
+ : **Favorite programming languages:** Go and PHP love frontend as well c:
+ 
+ : **Spoken languages:** Russian, English, Turkish, Polish, Swedish, and German
